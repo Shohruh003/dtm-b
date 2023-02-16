@@ -2,11 +2,11 @@ insert into
     users (fulname, username, password, phone, region)
 values
     (
-        'Islombek Tog`ayev',
-        'islom',
-        crypt('12345', gen_salt('bf')),
-        '+998903456789',
-        'sirdaryo'
+        'Azimov Shohruh',
+        'Shohruh',
+        crypt('123456789', gen_salt('bf')),
+        '+998942720705',
+        'namangan'
     );
 
 insert into
