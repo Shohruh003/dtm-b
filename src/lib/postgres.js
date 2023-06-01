@@ -1,5 +1,4 @@
 import pg from 'pg'
-import { pgConfig } from '../config.js'
 
 
 
